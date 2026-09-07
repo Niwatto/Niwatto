@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-<a href="mailto:niwat.tongkan@gmail.com"><img src="https://img.shields.io/badge/Email-00B4A6?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Niwatto"><img src="https://img.shields.io/badge/GitHub-00B4A6?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
 </div>
 
