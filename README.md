@@ -73,14 +73,14 @@
 
 <a href="https://github.com/Niwatto/SubBeep">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Niwatto&repo=SubBeep&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niwatto&repo=SubBeep&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true" height="115" alt="SubBeep" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Niwatto&repo=SubBeep&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Niwatto&repo=SubBeep&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true" height="115" alt="SubBeep" />
   </picture>
 </a>
 <a href="https://github.com/Niwatto/rust-programing">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Niwatto&repo=rust-programing&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niwatto&repo=rust-programing&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true" height="115" alt="rust-programing" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Niwatto&repo=rust-programing&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Niwatto&repo=rust-programing&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true" height="115" alt="rust-programing" />
   </picture>
 </a>
 
@@ -91,13 +91,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Niwatto&show_icons=true&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Niwatto&show_icons=true&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Niwatto&show_icons=true&title_color=00B4A6&text_color=c9d1d9&icon_color=00B4A6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Niwatto&show_icons=true&title_color=00B4A6&text_color=24292f&icon_color=00B4A6&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="170" alt="stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwatto&title_color=00B4A6&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwatto&title_color=00B4A6&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="170" alt="top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Niwatto&title_color=00B4A6&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Niwatto&title_color=00B4A6&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="170" alt="top languages" />
 </picture>
 
 <br/><br/>
